@@ -53,11 +53,23 @@ Aqui no GitHub, compartilho minha caminhada na programação, meus estudos e pro
 
 ---
 
-## Github em movimento
+## Cantinho dos meus projetos
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccamysz&show_icons=true&title_color=ff8fab&icon_color=f28482&text_color=555&bg_color=00000000&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamysz&layout=compact&title_color=ff8fab&text_color=555&bg_color=00000000&hide_border=true" height="170" />
+  Por aqui, você vai encontrar projetos que mostram minha evolução no front-end, minha prática com interfaces responsivas e meu processo de aprendizado constante.
+</p>
+
+<p align="center">
+  <a href="https://github.com/ccamysz?tab=repositories">
+    <img src="https://img.shields.io/badge/ver%20meus%20reposit%C3%B3rios-ff8fab?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ccamysz/SuaVez">SuaVez</a> •
+  <a href="https://github.com/ccamysz/camyla-portifolio">Portfólio</a> •
+  <a href="https://github.com/ccamysz/jogo-Yu-Gi-Oh">Jogo Yu-Gi-Oh</a> •
+  <a href="https://github.com/ccamysz/neXart-ver2">neXart-ver2</a>
 </p>
 
 ---
