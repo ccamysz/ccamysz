@@ -32,10 +32,6 @@ Gosto de criar interfaces bonitas, organizadas e funcionais, sempre buscando uni
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=light" alt="Tecnologias" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
-</p>
-
 ---
 
 ## Onde você vai me encontrar
