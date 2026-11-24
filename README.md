@@ -1,7 +1,7 @@
 <h1 align="center">Camyla Vitoria</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F78DA7&center=true&vCenter=true&width=800&lines=Front-end+em+constru%C3%A7%C3%A3o+com+muito+carinho+e+dedica%C3%A7%C3%A3o;Transformando+ideias+em+interfaces+bonitas+e+funcionais;Estudando%2C+praticando+e+evoluindo+um+passo+de+cada+vez;Estagi%C3%A1ria+da+C3C+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F78DA7&center=true&vCenter=true&width=800&lines=Front-end+em+constru%C3%A7%C3%A3o%2C+aprendendo+e+criando+todos+os+dias;Transformando+ideias+em+interfaces+bonitas+e+funcionais;Estudando%2C+praticando+e+evoluindo+um+passo+de+cada+vez;Estagi%C3%A1ria+da+C3C+Software" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -40,18 +40,6 @@ Gosto de criar interfaces bonitas, organizadas e funcionais, sempre buscando uni
 - `Foco em Front-end`
 - `Estagiária da C3C Software`
 - `Estudando React e Node.js`
-
----
-
-## Meu fluxo de commits
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ccamysz&theme=default&hide_border=true&background=FFF0F3&ring=F78DA7&fire=FF8FAB&currStreakLabel=F28482&sideLabels=84A59D&currStreakNum=84A59D&sideNums=84A59D&dates=84A59D" alt="Sequência de commits" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ccamysz&bg_color=FFF0F3&color=F78DA7&line=FF8FAB&point=F28482&area=true&area_color=FF8FAB&hide_border=true&title_color=F28482" alt="Gráfico de contribuições" />
-</p>
 
 ---
 
