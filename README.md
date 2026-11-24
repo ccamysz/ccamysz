@@ -1,7 +1,7 @@
 <h1 align="center">Camyla Vitoria</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F78DA7&center=true&vCenter=true&width=800&lines=Front-end+em+constru%C3%A7%C3%A3o+com+muito+carinho+e+dedica%C3%A7%C3%A3o;Transformando+ideias+em+interfaces+bonitas+e+funcionais;Estudando%2C+praticando+e+evoluindo+um+passo+de+cada+vez;Em+busca+de+uma+oportunidade+de+est%C3%A1gio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F78DA7&center=true&vCenter=true&width=800&lines=Front-end+em+constru%C3%A7%C3%A3o+com+muito+carinho+e+dedica%C3%A7%C3%A3o;Transformando+ideias+em+interfaces+bonitas+e+funcionais;Estudando%2C+praticando+e+evoluindo+um+passo+de+cada+vez;Estagi%C3%A1ria+da+C3C+Software" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,9 +22,7 @@
 
 Oi, eu sou a Camyla, estudante e desenvolvedora Front-end em constante aprendizado.
 
-Gosto de criar interfaces bonitas, organizadas e funcionais, sempre buscando unir visual agradável com uma boa experiência para quem usa. Atualmente, estou focada em fortalecer minha base com HTML, CSS e JavaScript, enquanto avanço nos estudos de React e Node.js.
-
-Estou em busca de uma oportunidade de estágio para colocar meus conhecimentos em prática, aprender com o time e continuar crescendo na área da tecnologia.
+Gosto de criar interfaces bonitas, organizadas e funcionais, sempre buscando unir visual agradável com uma boa experiência para quem usa. Atualmente, sou estagiária da C3C Software, onde coloco meus conhecimentos em prática, aprendo com o time e continuo crescendo na área da tecnologia. Ao mesmo tempo, sigo fortalecendo minha base com HTML, CSS e JavaScript, enquanto avanço nos estudos de React e Node.js.
 
 ---
 
@@ -40,8 +38,20 @@ Estou em busca de uma oportunidade de estágio para colocar meus conhecimentos e
 
 - `Fortaleza - CE`
 - `Foco em Front-end`
-- `Buscando estágio`
+- `Estagiária da C3C Software`
 - `Estudando React e Node.js`
+
+---
+
+## Meu fluxo de commits
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ccamysz&theme=default&hide_border=true&background=FFF0F3&ring=F78DA7&fire=FF8FAB&currStreakLabel=F28482&sideLabels=84A59D&currStreakNum=84A59D&sideNums=84A59D&dates=84A59D" alt="Sequência de commits" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ccamysz&bg_color=FFF0F3&color=F78DA7&line=FF8FAB&point=F28482&area=true&area_color=FF8FAB&hide_border=true&title_color=F28482" alt="Gráfico de contribuições" />
+</p>
 
 ---
 
