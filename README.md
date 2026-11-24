@@ -32,6 +32,10 @@ Gosto de criar interfaces bonitas, organizadas e funcionais, sempre buscando uni
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=light" alt="Tecnologias" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
+</p>
+
 ---
 
 ## Onde você vai me encontrar
@@ -47,7 +51,7 @@ Gosto de criar interfaces bonitas, organizadas e funcionais, sempre buscando uni
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ccamysz&show_icons=true&bg_color=282A36&title_color=FF6E96&text_color=FFFFFF&icon_color=8BE9FD&border_color=FFFFFF&border_radius=8" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamysz&layout=compact&langs_count=6&bg_color=282A36&title_color=FF6E96&text_color=FFFFFF&border_color=FFFFFF&border_radius=8" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamysz&layout=compact&langs_count=8&bg_color=282A36&title_color=FF6E96&text_color=FFFFFF&border_color=FFFFFF&border_radius=8" alt="Linguagens mais usadas" />
 </p>
 
 ---
