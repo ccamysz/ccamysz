@@ -46,7 +46,7 @@ Gosto de criar interfaces bonitas, organizadas e funcionais, sempre buscando uni
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ccamysz&show_icons=true&include_all_commits=true&count_private=true&bg_color=282A36&title_color=FF6E96&text_color=FFFFFF&icon_color=8BE9FD&border_color=FFFFFF&border_radius=8" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ccamysz&show_icons=true&bg_color=282A36&title_color=FF6E96&text_color=FFFFFF&icon_color=8BE9FD&border_color=FFFFFF&border_radius=8" alt="Estatísticas do GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamysz&layout=compact&langs_count=6&bg_color=282A36&title_color=FF6E96&text_color=FFFFFF&border_color=FFFFFF&border_radius=8" alt="Linguagens mais usadas" />
 </p>
 
